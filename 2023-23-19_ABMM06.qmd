@@ -1,0 +1,243 @@
+---
+title: "Digital Activities"
+subtitle: ABMM06
+date: 2023-12-19
+author: Mathias Johansson
+---
+
+
+
+## TaDiRAH { .smaller }
+
+> The Taxonomy of Digital Research Activities in the Humanities
+
+[![TaDiRAH Browser](/assets/TaDiRAH.jpg){fig-align="center" width="50%"}](https://tadirah.info/pages/Browser.html)
+
+![](https://tadirah.info/images/demo/Drache.png){.absolute bottom=-10 right=-200 height="60px"}
+
+::: { .notes }
+
+TaDiRAH -- one of the outputs of Dariah-EU
+
+
+:::
+
+## Open Source > Closed Source
+
+ - Pro
+    - Often as good, or better than closed source
+    - Avoid getting locked into proprietary formats
+    - No License
+
+- Con
+    - Can demand a bit more involvement to set up
+    - Can become abandonware
+
+::: { .notes }
+
+
+
+:::
+
+## Voyant
+
+> see through your text
+
+[![Voyant- Austen](/assets/Voyant.jpg){fig-align="center" width="80%"}](https://voyant-tools.org/?corpus=austen)
+
+![](https://voyant-tools.org/resources/images/voyant-see.png){.absolute bottom=-10 right=-20 height="60px"}
+
+::: { .notes }
+
+Voyant is a good entrypoint into computational text-analysis.
+
+Can be run for free (with some size limitation) on their servers.
+
+Can also be installed to run locally, which is a good option when you need to control the data
+
+Many visualisation options for the various descriptive options
+
+Good, solid documentation
+
+(Topic Modeling)
+
+:::
+
+
+## Antconc
+
+[![Antconc](https://www.laurenceanthony.net/software/antconc/screenshots/kwic.png){fig-align="center" width="80%"}](https://www.laurenceanthony.net/software/antconc/)
+
+![](https://www.laurenceanthony.net/software/antconc/icons/AntConc.png){.absolute bottom=-10 right=-20 height="60px"}
+
+::: { .notes }
+
+Good entrypoint into corpus linguistics
+
+((The screenshot shows KWIC: *Key Word In Context*))
+
+:::
+
+## Palladio
+
+> Visualize complex historical data with ease
+
+[![Palladio](/assets/Palladio.jpg){fig-align="center" width="80%"}](http://hdlab.stanford.edu/palladio/)
+
+
+![](http://hdlab.stanford.edu/palladio/public/apple-touch-icon-120x120.png){.absolute bottom=-10 right=-20 height="60px"}
+
+::: { .notes }
+
+Produced, maintaned and hosted by Stanford
+
+Highly interactive plotting tools for:
+    GIS
+    Networks
+    Timelines
+
+Supports 'complex' data
+
+Good documentation
+
+:::
+
+## Gephi { .smaller }
+
+> makes graphs handy
+
+[![Palladio](https://gephi.org/images/screenshots/preview1.png){fig-align="center" width="70%"}](https://gephi.org/)
+
+![](https://gephi.org/images/logo.png){.absolute bottom=-10 right=-20 height="60px"}
+
+::: { .notes }
+
+Network analysis tool with a low threshold
+
+Supports simple and dynamic visualisations
+
+This is the software *we* -- DigitalHistory@Lund -- are using during our *Working Groups*
+
+:::
+
+## QGIS { .smaller }
+
+> A Free and Open Source Geographic Information System
+
+[![QGIS](https://qgis.org/en/_static/images/about-screenshot.png){fig-align="center" width="70%"}](https://qgis.org/)
+
+![](/assets/qgis.png){.absolute bottom=-10 right=-20 height="60px"}
+
+::: { .notes }
+
+GIS software
+
+Higher threshold to get started than the rest, but it pays off
+
+:::
+
+
+
+## WolframAlpha { .smaller }
+
+> A unique engine for computing answers and providing knowledge
+
+[![Palladio](/assets/Wolfram.jpg){fig-align="center" height="60%"}](https://www.wolframalpha.com/input?i=monty+hall+problem)
+
+![](/assets/wolf.png){.absolute bottom=-10 right=-200 height="40px"}
+
+::: { .notes }
+
+Search engine for Mathematics, Statistics and more.
+
+:::
+
+
+## StoryToolkitAI { .smaller }
+
+> tool that understands your footage and helps you edit more efficiently
+
+[![StoryToolkitAI](https://raw.githubusercontent.com/octimot/StoryToolkitAI/main/help/storytoolkitai_v0.19.0.png){fig-align="center" height="80%"}](https://github.com/octimot/StoryToolkitAI)
+
+::: { .notes }
+
+Audio transcription tool
+
+Runs locally
+
+Can deal  with dialects and/or low sound quality with a very high level of accuracy
+
+:::
+
+
+## [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus) { background-video="https://readcoop.eu/wp-content/uploads/2022/06/transkribus.mp4" background-video-loop=true background-video-muted=true}
+
+> Unlock historical documents with AI
+
+::: { .notes }
+
+Document transcription tool
+
+Free for students -- just contact them to get more credits
+
+:::
+
+
+## Automate the Boring Stuff
+
+[![Automate the Boring Stuff with Python](https://automatetheboringstuff.com/images/cover_automate2_thumb.jpg){fig-align="left"}](https://automatetheboringstuff.com/)
+
+::: { .notes }
+
+A very good entry point into python, programming and automation
+
+The free edition of the book is a bit dated, but it still works.
+
+Walks you through a long list of useful projects
+
+:::
+
+
+## Huggingface { .smaller }
+
+> The AI community building the future.
+
+[![Huggningface](/assets/huggingface.jpg){fig-align="center" height="60%"}](https://huggingface.co/){.absolute bottom=100}
+
+![](/assets/hugging.png){.absolute bottom=-10 right=-200 height="40px"}
+
+::: { .notes }
+
+A site with many public models
+
+Many of which have good documentation
+
+Supports trying many of the models right in the browser
+
+https://huggingface.co/spaces/nielsr/vilt-vqa
+
+:::
+
+
+
+## Links {.smaller .scrollable}
+
+[https://tadirah.info/pages/Browser.html](https://tadirah.info/pages/Browser.html)
+
+[https://voyant-tools.org/](https://voyant-tools.org/)
+
+[https://www.laurenceanthony.net/software/antconc/](https://www.laurenceanthony.net/software/antconc/)
+
+[http://hdlab.stanford.edu/palladio/](http://hdlab.stanford.edu/palladio/)
+
+[https://gephi.org/](https://gephi.org/)
+
+[https://www.wolframalpha.com/input](https://www.wolframalpha.com/input)
+
+[https://github.com/octimot/StoryToolkitAI](https://github.com/octimot/StoryToolkitAI)
+
+[https://readcoop.eu/transkribus/?sc=Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus)
+
+[https://automatetheboringstuff.com/](https://automatetheboringstuff.com/)
+
+[https://huggingface.co/](https://huggingface.co/)

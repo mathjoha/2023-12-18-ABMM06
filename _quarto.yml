@@ -1,0 +1,9 @@
+project:
+  title: "Digital Activites"
+  output-dir: docs/
+toc: true
+number-sectons: false
+
+format:
+  revealjs:
+    incremental: false
